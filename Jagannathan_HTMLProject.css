@@ -11,6 +11,9 @@ center {
     top: 50%;
     left: 60%;
     transform: translate(-50%, -60%);
+    color: #dc7070;
+    font-size:50px;
+    font-family: Raleway;
 }
 head {
     background-color:#606060;
