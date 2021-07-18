@@ -1,6 +1,11 @@
 div {
     border-radius:0px;
 }
+h1 {
+    color: #dc7070
+}
+
+/*
 .block {
     background-color: #E5BEEC;
 }
@@ -119,7 +124,7 @@ a:hover, a:visited, a:link, a:active
     color:white;
     position: absolute;
     /*left: 100px;
-    padding-left: 50px;*/
+    padding-left: 50px;
     font-size: 50px;
     top: 80px;
     
@@ -134,7 +139,7 @@ a:hover, a:visited, a:link, a:active
 .g {
     color:#696969;
     /*margin-left:50px;
-    margin-right:50px;*/
+    margin-right:50px;
     text-align:left;
     margin-top:20px;
   
@@ -185,7 +190,7 @@ a:hover + div {
 }
 
 .mpad {
-   /*padding:20px;*/
+   /*padding:20px;
     margin-bottom: 20px;
 }
 
@@ -222,7 +227,7 @@ a:hover + div {
     margin-top: 5%;
     margin-bottom: 5%;
 }
-/* Three columns side by side */
+/* Three columns side by side 
 .column {
     float: left;
     width: 33.3%;
@@ -230,7 +235,7 @@ a:hover + div {
     padding: 0 8px;
   }
   
-  /* Display the columns below each other instead of side by side on small screens */
+  /* Display the columns below each other instead of side by side on small screens 
   @media screen and (max-width: 650px) {
     .column {
       width: 100%;
@@ -238,17 +243,17 @@ a:hover + div {
     }
   }
   
-  /* Add some shadows to create a card effect */
+  /* Add some shadows to create a card effect 
   .card {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   }
   
-  /* Some left and right padding inside the container */
+  /* Some left and right padding inside the container 
   .container {
     padding: 0 10px;
   }
   
-  /* Clear floats */
+  /* Clear floats 
   .container::after, .row::after {
     content: "";
     clear: both;
@@ -282,6 +287,7 @@ a:hover + div {
     border:solid;
     border-color:#FFC131;
     border-width:thick;
-    flex: 1; /* additionally, equal width */
+    flex: 1; /* additionally, equal width 
     padding: 1em;
 }
+*/
