@@ -11,8 +11,8 @@ h1 {
 center {
     position: absolute;
     top: 50%;
-    left: 60%;
-    transform: translate(-50%, -60%);
+   /* left: 50%;
+    transform: translate(-50%, -50%);*/
     color: #dc7070;
     font-size:50px;
     font-family: Raleway;
