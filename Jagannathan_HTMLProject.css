@@ -8,15 +8,15 @@ h1 {
     margin-left: 25px;
 
 }
+h2 {
+    text-align:center;
+    margin-top:10px;
+}
 center {
     position: absolute;
     top: 50%;
    left: 50%;
     transform: translate(-50%, -50%);
-}
-head {
-    background-color:#606060;
-
 }
 .button {
     background-color: #dc7070; /* pink */
