@@ -10,12 +10,9 @@ h1 {
 }
 center {
     position: absolute;
-    margin-top: 50%;
-   /* left: 50%;
-    transform: translate(-50%, -50%);*/
-    color: #dc7070;
-    font-size:50px;
-    font-family: Raleway;
+    top: 50%;
+   left: 50%;
+    transform: translate(-50%, -50%);
 }
 head {
     background-color:#606060;
