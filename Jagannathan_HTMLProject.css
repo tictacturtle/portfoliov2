@@ -44,6 +44,10 @@ head {
     color: white;
   }
 
+p {
+    font-size: 16px;
+    
+}
 /*
 .block {
     background-color: #E5BEEC;
