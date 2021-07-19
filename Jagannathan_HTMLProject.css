@@ -11,6 +11,15 @@ h1 {
 h2 {
     text-align:center;
     margin-top:10px;
+    font-size:60px;
+    font-family: Raleway;
+}
+h3 {
+    color: #dc7070;
+    font-size:40px;
+    font-family: Raleway;
+    margin-top: 20px;
+    margin-left:25px;
 }
 center {
     position: absolute;
