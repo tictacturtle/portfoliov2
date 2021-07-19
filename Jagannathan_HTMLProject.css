@@ -5,12 +5,12 @@ h1 {
     color: #dc7070;
     font-size:50px;
     font-family: Raleway;
-    margin-left: 50px;
+    margin-left: 25px;
 
 }
 center {
     position: absolute;
-    top: 50%;
+    margin-top: 50%;
    /* left: 50%;
     transform: translate(-50%, -50%);*/
     color: #dc7070;
@@ -21,6 +21,30 @@ head {
     background-color:#606060;
 
 }
+.button {
+    background-color: #dc7070; /* pink */
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+  
+  .button1 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #dc7070;
+  }
+  
+  .button1:hover {
+    background-color: #dc7070;
+    color: white;
+  }
 
 /*
 .block {
