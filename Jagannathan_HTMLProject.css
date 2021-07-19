@@ -28,7 +28,7 @@ head {
     text-decoration: none;
     display: inline-block;
     font-size: 26px;
-    margin: 4px 2px;
+    margin: 4px 4px;
     transition-duration: 0.4s;
     cursor: pointer;
   }
@@ -46,7 +46,6 @@ head {
 
 p {
     font-size: 16px;
-
 }
 /*
 .block {
