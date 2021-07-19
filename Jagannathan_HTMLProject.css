@@ -20,11 +20,12 @@ h3 {
     font-family: Raleway;
     margin-top: 20px;
     margin-left:25px;
+    text-align:center;
 }
 h4 {
     margin-left: 50px;
-    font-size:30px;
-    color:gray;
+    font-size:60px;
+    color:lightgray;
     font-family:'Times New Roman';
 
 }
