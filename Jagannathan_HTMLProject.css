@@ -23,6 +23,7 @@ head {
 }
 .button {
     background-color: #dc7070; /* pink */
+    font-family: Raleway;
     border: none;
     color: white;
     padding: 16px 32px;
