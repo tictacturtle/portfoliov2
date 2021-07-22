@@ -65,12 +65,11 @@ p {
     font-size: 16px;
 }
 
-li:active
-{
-    text-decoration: none;
-    background-color: #dc7070;
-}
 
+.nav-pills>li.active>a,
+.nav-pills>li.active>a:hover {
+   background-color: #dc7070;
+}
 
 /*
 .block {
@@ -264,11 +263,7 @@ a:hover + div {
 .proj {
     margin-bottom:20px;
 }
-.nav-pills>li.active>a,
-.nav-pills>li.active>a:focus,
-.nav-pills>li.active>a:hover {
-   background-color: #FFC131;
-}
+
 .left{
     text-align:left;
 }
