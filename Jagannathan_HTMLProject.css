@@ -66,8 +66,7 @@ p {
 }
 
 
-.nav-pills>li.active>a,
-.nav-pills>li.active>a:hover {
+.nav-pills>li.active>a {
    background-color: #dc7070;
 }
 
